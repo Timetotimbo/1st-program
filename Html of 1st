@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+<h2>1 Church</h2>
+<p>HTML link example is below</p>
+
+<a href="https://www.1church.co">This is a link</a>
+
+
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+p {
+  border: 2px solid RED;
+}
+</style>
+</head>
+<body>
+
+<h1>Trust in the LORD</h1>
+
+<p>If You can <br>believe all things are
+<br> possible.</p>
+<p>This is a paragraph.</p>
+<p>This is a paragraph.</p>
+
+<!DOCTYPE html>
+<html>
+<body>
+
+<div style="position:relative;">
+  <div style="opacity:0.35;position:absolute;left:50px;top:-30px;width:300px;height:150px;background-color:#40B3DF"></div>
+  <div style="opacity:0.3;position:absolute;left:120px;top:20px;width:100px;height:170px;background-color:#73AD21"></div>
+  <div style="margin-top:30px;width:360px;height:130px;padding:20px;border-radius:10px;border:10px solid #EE872A;font-size:120%;">
+    <h1>GOD, JEHOVAH is GOOD</h1>
+    <div style="letter-spacing:12px;font-size:15px;position:relative;left:25px;top:25px;">Trust the LORD</div>
+    <div style="color:#40B3DF;letter-spacing:12px;font-size:15px;position:relative;left:25px;top:30px;">
+    <span style="background-color:#B4009E;color:#ffffff;"> Time BLOCKS</
+    ></div>
+  </div>
+</div>
+
+<p></p><p><p></p>
+Edward Uyesugi  
+
+<style> 
+#myDIV {
+  width: 300px;
+  height: 200px;
+  background: red;
+  animation: mymove 4s infinite;
+}
+@keyframes mymove {
+  from {background-color: yellow;}
+  to {background-color: green;}
+}
+</style>
+
+<div id="myDIV"></div>
+
+<p><strong>Colors change, but God never changes </strong>
+</body>
+</html>
